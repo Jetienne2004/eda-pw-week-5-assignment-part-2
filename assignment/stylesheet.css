@@ -1,4 +1,14 @@
 header {
-    background-color: darkgreen;
-    color: aliceblue;
+  background-color: darkgreen;
+  color: aliceblue;
+  text-align: center;
+}
+main {
+  background-color: lightgrey;
+}
+body {
+  background-image: url('/Users/jaylynetienne/week5/eda-pw-week-5-assignment-part-2/assignment/record.png');
+  background-repeat: repeat;
+  margin: 0px;
+  padding: 1em;
 }
